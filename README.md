@@ -1,4 +1,5 @@
 # Assignment-3-Functions-Modules-in-Python
+
 ```
 
 ## Overview
@@ -52,9 +53,9 @@ Sine (in radians): -0.13235175009777303
 
 ```
 📁 Assignment3
-├── assignment3_task1.py
-├── assignment3_task2.py
-└── README.md
+ ├──  assignment3_task1.py
+ ├── assignment3_task2.py
+ └── README.md
 ```
 
 ---
